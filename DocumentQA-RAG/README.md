@@ -167,7 +167,7 @@ Final Answer
 
 ---
 
-## 🎯 Interview Questions & Answers
+## 🎯 Frequently Asked Questions & their Answers
 
 **1. What is RAG, and why is it needed?**
 RAG (Retrieval-Augmented Generation) combines a retrieval system with a generative LLM. It's needed because LLMs have a fixed knowledge cutoff and no access to private/custom data. RAG grounds the model's answers in retrieved, up-to-date, domain-specific text instead of relying purely on parametric knowledge — which also reduces hallucination.
